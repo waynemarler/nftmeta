@@ -3,18 +3,21 @@
     {
       "id": 5,
       "description": "This is the first sample NFT.",
+      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
       "external_url": "https://training.mammothinteractive.com/",
       "name": "Test Meta 0"
     },
     {
       "id": 6,
       "description": "This is the second sample NFT.",
+      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
       "external_url": "https://training.mammothinteractive.com/",
       "name": "Hello NFT 1"
     },
     {
       "id": 7,
       "description": "This is the third sample NFT.",
+      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
       "external_url": "https://training.mammothinteractive.com/",
       "name": "Hello NFT 2"
     }
